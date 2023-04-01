@@ -1,6 +1,6 @@
 ### Hi, I'm Matthieu 👋
 
-I work at the intersection of technologies and humanities - and try to combine the knowledge we've received with the possibilities offered by technology. I mostly work on natural language processing and currently excited by the possibilites offered by chain of thought. 
+I work at the intersection of technologies and humanities - and try to combine the knowledge we've received with the possibilities offered by technology. I mostly work on natural language processing and chain of thought. 
 
 ## Discover my work: 
 - Sharing knowledge on philosophy on <a href="https://www.youtube/_matthieu">Youtube</a> 
