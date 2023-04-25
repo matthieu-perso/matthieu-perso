@@ -7,4 +7,3 @@ My team and myself help businesses with AI, usually LLMs and Diffusion models. O
 
 ## Connect 
 - matthieu@structure.tech
--  <a href="https://https://twitter.com/____matthieu___">Twitter</a> 
