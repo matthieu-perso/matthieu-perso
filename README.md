@@ -4,6 +4,3 @@ I work at the intersection of technology and humanities - and try to combine the
 
 My team and myself help businesses with AI, usually LLMs and Diffusion models. Our team is research focus - and enable clients to make technology their key advantage. 
 
-
-## Connect 
-- matthieu@structure.tech
